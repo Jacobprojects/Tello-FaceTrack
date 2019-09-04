@@ -28,6 +28,12 @@ cd Tello-FaceTrack
 pip install -r requirements.txt
 ```
 
+# Usage 
+
+```
+python face.py
+```
+
 ### Notes 
 You need to be careful with the place where you are flying.
 <br>
